@@ -16,7 +16,7 @@ public class Swapping
 		System.out.println("After  Swpping");
 		System.out.println("Value of a:"+a);
 		System.out.println("Value of a:"+b);
-		System.out.println("Swapping completed");
+		System.out.println("Swapping Completed");
 
 	}
 
