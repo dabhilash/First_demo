@@ -4,7 +4,7 @@ public class Swapping
 {
 	public static void main(String[] args) 
 	{
-		int a=2,b=4;
+		int a=2,b=6;
 		System.out.println("Before Swpping");
 		System.out.println("Value of a:"+a);
 		System.out.println("Value of a:"+b);
